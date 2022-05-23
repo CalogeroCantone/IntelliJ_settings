@@ -2,6 +2,6 @@
   <component name="PairingToolState">
     <option name="serverType" value="WebSocket" />
     <option name="serverUrl" value="http://192.168.20.44:4001/" />
-    <option name="workspaceName" value="CCC" />
+    <option name="workspaceName" value="abc" />
   </component>
 </application>
